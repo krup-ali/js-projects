@@ -1,2 +1,2 @@
-# js-projects
-this respository contains javascript projects .
+# Basic Project
+This repo contain Basic project on html, css and Javascript .

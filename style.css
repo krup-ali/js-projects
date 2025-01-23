@@ -1,0 +1,29 @@
+/*li{
+	display : none;
+}*/
+body{
+	background-color: rgb(84,11,14);
+}
+h1{
+	color: rgb(255,245,176);
+}
+ul{
+	background-color: rgb(227,100,20);
+	display:block;
+	height:auto;
+	width: 210px;
+}
+li{
+	font-size="1.005em";
+}
+div{
+	background-color: rgb(51,92,103);
+	width: 265px;
+	padding-left:10px;
+	padding-bottom:10px;
+	padding-top:5px;
+}
+button{
+	border-radius: 1rm;
+
+}
